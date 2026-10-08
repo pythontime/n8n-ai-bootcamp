@@ -114,7 +114,7 @@ Load a ticket from GitHub
 **File Path Descrription** 
 ```
 Tickets are stored in the directory `day 2/tickets/`.
-Example path: "day 2/tickets/MHGPYF9K.txt"
+Example path: "day 2/tickets/MSQHX1BM.txt"
 ```
 
 **Binary**: `False`
@@ -139,7 +139,7 @@ Update a ticket on GitHub
 **File Path Descrription** 
 ```
 Tickets are stored in the directory `day 2/tickets/`.
-Example path: "day 2/tickets/MHGPYF9K.txt"
+Example path: "day 2/tickets/MSQHX1BM.txt"
 ```
 
 **File Content**
